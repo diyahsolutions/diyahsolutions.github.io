@@ -1,0 +1,13 @@
+{
+  "name": "Diyah Solutions",
+  "short_name": "Diyah",
+  "description": "CRM and marketing automation: lead management, follow-up and email marketing automation.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#050a18",
+  "theme_color": "#050a18",
+  "icons": [
+    { "src": "assets/img/brand/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/img/brand/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
